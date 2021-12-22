@@ -1,5 +1,5 @@
-Aim
+## Aim
 A a C/JAVA program to implement the Blowfish algorithm logic.
 
-Output
+## Output
 ![image](output5.png)
